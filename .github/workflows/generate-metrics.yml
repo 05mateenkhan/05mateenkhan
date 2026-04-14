@@ -16,11 +16,11 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: 05mateenkhan
           template: classic
-          base: header, activity
+          base: metadata
           config_timezone: Asia/Kolkata
           
-          # Simplified compact layout
-          config_order: base.header, base.activity
+          # Minimal layout
+          config_order: base.metadata
           
           # Branch to push metrics to
           output_action: commit
