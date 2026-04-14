@@ -15,9 +15,8 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           user: 05mateenkhan
-          template: classic
-          base: metadata
           config_timezone: Asia/Kolkata
+          config_theme: tokyonight
           
           # Minimal layout
           config_order: base.metadata
