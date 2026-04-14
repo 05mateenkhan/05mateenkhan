@@ -24,23 +24,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/05mateenkhan/interview-prep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=interview-prep&theme=nord" />
-  </a>
-  <a href="https://github.com/05mateenkhan/comments-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=comments-analyzer&theme=nord" />
-  </a>
-  <br>
-  <a href="https://github.com/05mateenkhan/recommender-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=recommender-system&theme=nord" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
