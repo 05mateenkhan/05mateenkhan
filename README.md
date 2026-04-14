@@ -59,10 +59,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/05mateenkhan/05mateenkhan/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
-
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
-</p>
-
 </div>
