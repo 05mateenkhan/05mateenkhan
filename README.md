@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=05mateenkhan&theme=tokyonight&hide_border=true" />
-  <img src="https://raw.githubusercontent.com/05mateenkhan/05mateenkhan/output/github-metrics.svg" />
 </p>
 
 ---
