@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: General
+        uses: lowlighting/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: 05mateenkhan
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # Branch to push metrics to
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics"
