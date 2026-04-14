@@ -28,14 +28,14 @@
 
 <p align="center">
   <a href="https://github.com/05mateenkhan/interview-prep">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=interview-prep&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=interview-prep&theme=nord" />
   </a>
   <a href="https://github.com/05mateenkhan/comments-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=comments-analyzer&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=comments-analyzer&theme=nord" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/05mateenkhan/recommender-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=recommender-system&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=05mateenkhan&repo=recommender-system&theme=nord" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05mateenkhan&show_icons=true&theme=nord&rank_icon=github" alt="Mateen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=05mateenkhan&show_icons=true&theme=nord&hide_border=true" alt="Mateen's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=05mateenkhan&theme=nord" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=05mateenkhan&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
