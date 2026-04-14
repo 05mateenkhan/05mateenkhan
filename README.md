@@ -27,7 +27,7 @@
 ###  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05mateenkhan&show_icons=true&theme=nord&hide_border=true&cache_seconds=1800" alt="Mateen's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=05mateenkhan&show_icons=true&theme=nord&hide_border=true&cache_seconds=1800" alt="Mateen's GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=05mateenkhan&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
